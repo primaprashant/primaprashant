@@ -2,6 +2,8 @@
 
 I'm a Machine Learning Engineer working in Tokyo, Japan for the last two years.
 
+![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=primaprashant&count_private=true&show_icons=true&hide=issues,contribs&theme=vue)
+
 ### What I'm Working On
 
 1. 👨‍💻 I'm a machine learning engineer/tech lead at Mercari, Inc. in Tokyo, Japan. I use machine learning in the customer support domain to improve the experience of our customers when they send us inquiries.
