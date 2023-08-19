@@ -1,18 +1,26 @@
-### Hey 👋, I'm Prashant Anand.
+### Hey 👋, I'm Prashant.
 
-I'm a Machine Learning Engineer working in Tokyo, Japan for the last two years.
+I'm a senior Machine Learning Engineer with 4 years of experience in building scalable, high-performance production ML systems to support a wide range of business needs. Whether it's data analysis, ideation, and experimentation or deployment and maintenance, I'm actively engaged in all aspects of developing ML systems. I have in-depth experience in Machine Learning, with a particular emphasis on Natural Language Processing (NLP) and Large Language Models (LLMs).
 
-![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=primaprashant&count_private=true&show_icons=true&hide=issues,contribs&theme=vue)
+I currently work in the Customer Support domain and lead the exploration and application of ML, NLP, and LLMs in this domain. My day-to-day responsibilities include (but are not limited to) the following:
 
-### What I'm Working On
+- Collaborate with stakeholders & TPMs and analyze data to develop hypotheses to solve business problems and validate them through A/B tests.
+- Frame business problems as ML problems and create suitable metrics for ML models and business problems.
+- Build PoCs and prototypes to validate the technical feasibility of the new features and ideas.
+- Create design docs for architecture and technical decisions and guide the technical implementation.
+- Collaborate with the platform and data platform team to set up and maintain the data pipelines that satisfy our team's evolving needs.
+- Build and deploy production-grade microservices in Python and Go with suitable capacity planning, logging, error handling, distributed tracing, monitors with actionable alerts, and auto-scaling.
+- Write design docs for running A/B tests and perform post-test analyses to determine the impact of ML features on the business metrics.
+- Maintenance, enhancement, and retraining of ML models for features running in production.
+- Responsible for incident handling and included in the on-call rotation of the ML and backend microservices owned by my team.
+- Evaluate technical assignments and conduct interviews for hiring mid-career, new grads, and intern ML engineers.
 
-1. 👨‍💻 I'm a machine learning engineer/tech lead at Mercari, Inc. in Tokyo, Japan. I use machine learning in the customer support domain to improve the experience of our customers when they send us inquiries.
-2. 🎙 I co-host a bi-weekly podcast called [Tech Culture Podcast](https://www.techculturepodcast.com/) with [Kaustubh](https://twitter.com/_ofkaus) where we talk about emerging startups, interesting tech products and business trends.
-3. 🐦 On [Twitter](https://twitter.com/primaprashant), I regularly write about applied machine learning and NLP.
-4. 💌 I send a newsletter every Sunday morning about new ideas and concepts I learned during the week. [Sign up for the my newsletter, The Ordered Entropy](https://www.theorderedentropy.com/).
+Tech stack that I use for carrying out my day-to-day responsibilities:
 
-### Get in touch
+- Data analysis: SQL, BigQuery
+- ML experimentation and model training: Jupyter Notebooks, PyTorch, Hugging Face Transformers, Azure OpenAI, Kubeflow pipelines, MLFlow
+- Model deployment: TorchServe, Kubernetes
+- Microservice development: Python, Go, gRPC, Datadog, Pagerduty, Sentry, Spinnaker, Docker
 
-Reach out to me via [email](mailto:prashant.anand@alumni.iitd.ac.in) or Twitter ([@primaprashant](https://twitter.com/primaprashant)).
-
-![](https://komarev.com/ghpvc/?username=primaprashant)
+Find my resume [here](https://anandprashant.com/).
+  
